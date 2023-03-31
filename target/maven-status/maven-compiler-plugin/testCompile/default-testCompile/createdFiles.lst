@@ -1,0 +1,5 @@
+USER/UserCreateTest.class
+USER/UserLoginTest.class
+ORDER/OrderUserTest.class
+ORDER/OrderTest.class
+USER/UserUpdateTest.class
